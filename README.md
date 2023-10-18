@@ -3,6 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=F26422&vCenter=true&multiline=true&random=false&width=500&lines=Build%2C+Test%2C+%26+Deploy+Real+World+DApps." alt="Typing SVG" /></a>
 
 <br>
+<br>
 
 <a href="https://blockchain.uj.ac.za/">
     <img src="https://img.shields.io/badge/Website%20-%20orange?style=flat&logo=searxng&logoColor=%23F26422&color=%232d3a4b">
@@ -24,9 +25,7 @@
 </a>
 
 <br>
-<br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=F26422&vCenter=true&multiline=true&random=false&width=950&height=80&lines=South+Africa+-+Switzerland+Bilateral+Research+Chair+in+Blockchain+Technology+%7C;Building+the+Future%2C+One+Block+at+a+Time." alt="Typing SVG" /></a>
 
 
 </p>
