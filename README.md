@@ -4,6 +4,7 @@
 
 <br>
 <br>
+<br>
 
 <a href="https://blockchain.uj.ac.za/">
     <img src="https://img.shields.io/badge/Website%20-%20orange?style=flat&logo=searxng&logoColor=%23F26422&color=%232d3a4b">
@@ -25,11 +26,10 @@
 </a>
 
 <br>
-
-
-
 </p>
 
+<br>
+<br>
 
 ###  Building the Future, One Block at a Time!
 
