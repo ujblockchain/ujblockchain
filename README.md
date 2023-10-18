@@ -43,6 +43,6 @@
 
 <br>
 
-*We are currently working on a real work application of Blockchain*
+*We are currently working on a real world application of Blockchain*
 
 > Drop us a message at: [Contact Form](https://blockchain.uj.ac.za/#contact)
