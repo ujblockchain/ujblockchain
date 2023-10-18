@@ -1,9 +1,8 @@
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=F26422&vCenter=true&multiline=true&random=false&width=500&lines=Build%2C+Test%2C+%26+Deploy+Real+World+DApps." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=F26422&vCenter=true&multiline=true&random=false&width=950&height=80&lines=Build%2C+Test%2C+%26+Deploy+Real+World+DApps.;South+Africa+-+Switzerland+Bilateral+Research+Chair+in+Blockchain+Technology." alt="Typing SVG" /></a>
 
-<br>
-<br>
+
 <br>
 
 <a href="https://blockchain.uj.ac.za/">
